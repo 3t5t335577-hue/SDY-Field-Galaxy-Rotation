@@ -71,7 +71,7 @@ $$
 
 ### Resulting Graph
 
-![NGC2403 Rotation Curve](figures/NGC2403_SDY_fit_0to100kpc.png)
+![NGC2403 Rotation Curve](NGC2403_SDY_fit_0to100kpc.png)
 
 ---
 
